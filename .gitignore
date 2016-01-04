@@ -26,3 +26,5 @@
 *.exe
 *.out
 *.app
+/Day 1 Data Types!/nbproject/private/
+/Day 1 Data Types!/build/
